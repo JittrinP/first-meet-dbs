@@ -2,4 +2,6 @@
 //สร้าง function ที่ข้างในเป็นข้อมูล database ชื่อ sample_mflix
 use("sample_mflix")
 //ex.2  topic1
-
+db.movies.find({type:"movie" , rated : "TV-G"});
+//ex.2  topic2
+db.movies.find({type:"movie" , rated : "TV-G"}).count();
