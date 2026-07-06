@@ -5,7 +5,7 @@ use("sample_mflix")
 db.movies.find({plot : {$regex : "American"}}).count();
 
 //ex.4  topic2
-db.movies.find({plot : {$regex : "the word street.$"}}).count();
+db.movies.find({plot : {$regex : "street.$"}}).count();
 
 //ex.4  topic3
-db.movies.findOne({plot : {$regex : "the word street.$"}});
+db.movies.findOne({plot : {$regex : "street.$" }});
