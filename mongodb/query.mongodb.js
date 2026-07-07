@@ -11,7 +11,7 @@ db.comments.findOne({_id:ObjectId("5a9427648b0beebeb69579f5")});
 // การหา email นี้โดยเอามาตัวเดียว ex.1 topic3
 db.comments.findOne({email : "john_bishop@fakegmail.com"});
 
-// การหา email นี้โดยเอามาตัวเดียว ex.1 topic4
+// การหา name นี้โดยเอามาตัวเดียว ex.1 topic4
 db.comments.findOne({name: "John Bishop"});
 
 //db.movies.find({ type: "movie" , rated :"TV-G"}).count();
