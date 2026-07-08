@@ -41,7 +41,6 @@ db.orders.insertMany([
   }
 ]);
 
-db.orders.find();
 
 //Find all orders and show staff details
 db.orders.aggregate([
