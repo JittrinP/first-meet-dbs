@@ -78,7 +78,7 @@ Honda motorcycles only (MVP phase). This keeps the symptom-cause-part knowledge 
 
 MotoDoc solves a gap that Honda's own channels don't address:
 - **My Honda Moto (official app):** Excellent for scheduled maintenance reminders, but useless for real-time diagnosis
-- **PEC (parts catalog):** Comprehensive, but requires you to already know the part code
-- **MotoDoc:** Bridges the gap — "I have a symptom → tell me what part I need → show me the price → let me buy it from a trusted dealer, all in one place"
+- **Parts catalog:** Comprehensive, but requires you to already know the part code
+- **MotoDoc:** (our business) close both gap — "I have a symptom → tell me what part I need → show me the price → let me buy it from a trusted dealer, all in one place"
 
 ---
